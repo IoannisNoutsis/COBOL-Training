@@ -1,0 +1,1 @@
+This program asks the user for the radius of a circle and calculates the circumference and area.
